@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F759D2&width=435&lines=Hi+there!+I'm+Remonda+Wageh;Fullstack+Developer+%7C+Python+%7C+Django+%7C+React;Web+Scraping+%7C+Problem+Solving+%7C+ECPC+Participant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F759D2&width=435&lines=Hi+there!+I'm+Remonda+Wageh;Fullstack+Developer+%7C+Python;Django+%7C+React;Web+Scraping+%7C+Problem+Solving+%7C+ECPC+Participant" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Remonda Wageh</h1>
