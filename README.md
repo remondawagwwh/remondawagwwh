@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Remonda Wageh</h1>
-<h3 align="center">Fullstack Python Developer | Web Scraping | Django | React</h3>
+<h3 align="center">Fullstack Python Developer | Web Scraping | Django | React | ODOO Devoloper | ODOO Impelementor</h3>
 
 - 🎓 Graduate of Faculty of Computers and Information, Assiut University (2024)  
 - 🔭 I’m currently working on **Library & Restaurant Management Systems**  
@@ -14,7 +14,8 @@
 - 📫 How to reach me: remondawagwwh@gmail.com  
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/remonda-wageh)  
 - 🏆 Participated in **ECPC (Egyptian Collegiate Programming Contest)**  
-- 🧠 Strong skills in **Problem Solving** and algorithmic thinking  
+- 🧠 Strong skills in **Problem Solving** and algorithmic thinking
+- 🧠 **ERP Systems & Business Analysis**
 
 ---
 
@@ -22,7 +23,7 @@
 - 💻 Python | Django | REST APIs | PostgreSQL  
 - 🌐 HTML | CSS | JavaScript | React.js | Bootstrap  
 - ⚙️ Git | GitHub | Postman | Selenium | BeautifulSoup  
-- 📦 VS Code | Jupyter | Linux  
+- 📦VS Code | Jupyter | Linux | Odoo ERP 
 
 ---
 
@@ -35,6 +36,16 @@ Tech: HTML, CSS, JavaScript
 ### 🍽️ Restaurant Management System  
 Simple interactive UI for managing orders and menu items  
 Tech: React.js, Bootstrap  
+
+### 🏗️ Construction Company Accounting System (Odoo ERP)
+
+ERP system for managing accounting operations, invoices, contractors, expenses, payroll, and financial reports for a construction company
+Tech: Odoo, PostgreSQL, Python
+
+### 🏥 Clinic Management System (Odoo ERP)
+
+Comprehensive clinic management system including patients, appointments, doctors, billing, and medical records
+Tech: Odoo, Python, PostgreSQL
 
 ### 🕸️ Web Scraper Tool  
 Automated scraper using Python, BeautifulSoup, and Selenium  
